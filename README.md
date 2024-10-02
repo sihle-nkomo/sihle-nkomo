@@ -1,6 +1,6 @@
 - Hello, I'm Sihle Nkomo! 👋
 - 👀 I’m interested in web development, software engineering, and exploring new technologies
-- 🌱 I’m currently invested in HTML, CSS, and JavaScript 
+- 🌱 I’m currently invested in Python, HTML, CSS, and JavaScript 
 - 💞️ I’m looking to collaborate on open-source projects, web development projects, and anything related to software engineering
 - 📫 How to reach me: Twitter or email
 - 😄 Pronouns: she/her
