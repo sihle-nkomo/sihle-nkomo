@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects, web development projects, and anything related to software engineering
 - 📫 How to reach me: Twitter or email
 - 😄 Pronouns: she/her
-⚡ Fun fact: I'm passionate about creating intuitive and accessible web experiences and i'm sleeping a lot more !
+⚡ Fun fact: I'm passionate about creating intuitive and accessible web experiences and i love sleeping a lot more !
 
 <!---
 sihle-nkomo/sihle-nkomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
